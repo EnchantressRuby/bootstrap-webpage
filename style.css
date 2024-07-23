@@ -1,0 +1,26 @@
+.custom {
+    background-image: url('./img/banner.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.circle {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #d93444;
+}
+
+.circle i {
+    font-size: 78px;
+
+}
+
+.custom2 {
+    background-image: url(./img/back.jpg);
+    background-size: cover;
+    background-position: center;
+}

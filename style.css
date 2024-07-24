@@ -1,26 +1,25 @@
-.custom {
-    background-image: url('./img/banner.jpeg');
-    background-size: cover;
+.custom{
+    background-image: url(./img/banner.jpeg);
     background-position: center;
+    block-size: cover;
 }
 
 .circle {
+    background-color: #d93444;
+    width: 150px;
+    height: 150px;
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 150px;
-    height: 150px;
     border-radius: 50%;
-    background-color: #d93444;
 }
 
-.circle i {
-    font-size: 78px;
-
+.col-md-4 {
+    padding: 0;
 }
 
-.custom2 {
-    background-image: url(./img/back.jpg);
-    background-size: cover;
+.custom2{
+    background-image: url(img/back.jpg);
     background-position: center;
+    block-size: cover;
 }
